@@ -33,7 +33,6 @@ namespace LeetCode
             Input: nums = [555,901,482,1771]
             Output: 1 
         */ 
-
         public static int FindNumbers(int[] nums) {
             int count = 0;
             foreach(int num in nums)
@@ -62,7 +61,6 @@ namespace LeetCode
             Input: nums = [-4,-1,0,3,10]
             Output: [0,1,9,16,100]
         */
-
         public static int[] SortedSquares(int[] nums) {
             int[] SequredNums = new int[nums.Length];
             for (int i = 0; i < nums.Length; i++)
@@ -73,6 +71,27 @@ namespace LeetCode
             return SequredNums;
         }
 
+        /*
+            Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
+            
+            Input: [1,0,2,3,0,4,5,0]
+            Output: null
+            Explanation: After calling your function, the input array is modified to: [1,0,0,2,3,0,0,4]
+        */
+        public static void DuplicateZeros(int[] arr) 
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if(arr[i] == 0 )
+                {
+                    for(int j = arr.Length - 1; j > i; j--)
+                    {
+                        arr[j] = arr[j-1];
+                    }
+                    i++;
+                }
+            }
+        }
 
     }
 }

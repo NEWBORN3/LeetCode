@@ -7,8 +7,9 @@ namespace LeetCode
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int[] nums = {-4,-1,0,3,10};
-            Console.WriteLine("o- {0}",String.Join(",",TheArray.SortedSquares(nums)));
+            int[] nums = {1,0,2,3,0,4,5,0};
+            TheArray.DuplicateZeros(nums);
+            Console.WriteLine("o- {0}",String.Join(",",nums));        
         }
     }
 }
