@@ -1,0 +1,16 @@
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode.deps.json
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode.runtimeconfig.json
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode.runtimeconfig.dev.json
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode.dll
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/ref/LeetCode.dll
+/home/newborn/Documents/LeetCode/bin/Debug/net5.0/LeetCode.pdb
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.csprojAssemblyReference.cache
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.AssemblyInfoInputs.cache
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.AssemblyInfo.cs
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.csproj.CoreCompileInputs.cache
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.dll
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/ref/LeetCode.dll
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.pdb
+/home/newborn/Documents/LeetCode/obj/Debug/net5.0/LeetCode.genruntimeconfig.cache
