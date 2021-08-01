@@ -93,5 +93,51 @@ namespace LeetCode
             }
         }
 
+        /* 
+            You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, 
+            and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+        
+            Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
+            Output: [1,2,2,3,5,6]
+            Explanation: The arrays we are merging are [1,2,3] and [2,5,6].
+            The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.
+        */
+
+        public static void Merge(int[] nums1, int m, int[] nums2, int n) {
+            for (int i = m,j=0; i < nums1.Length; i++)
+            {
+                nums1[i] = nums2[j];
+                j++;                
+            }
+            Array.Sort(nums1);
+        }
+    
+
+        /*
+            Given an integer array nums and an integer val, 
+            remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+
+            Input: nums = [3,2,2,3], val = 3
+            Output: 2, nums = [2,2,_,_]
+            Explanation: Your function should return k = 2, with the first two elements of nums being 2.It does not matter what you leave beyond the returned k (hence they are underscores).
+        */
+
+        
+        public static int RemoveElement(int[] nums, int val) {
+            int length = nums.Length;
+            for (int i = 0; i < length; i++)
+            {
+                if(nums[i] == val)
+                {
+                    for (int j = i +1 ; j < length; j++)
+                    {   
+                        nums[j - 1] = nums[j];
+                    }
+                    i--;
+                    length--;
+                }
+            }
+            return length;        
+        }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/newborn/Documents/LeetCode/LeetCode.csproj": {}
+    "C:\\WebApi\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "/home/newborn/Documents/LeetCode/LeetCode.csproj": {
+    "C:\\WebApi\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/newborn/Documents/LeetCode/LeetCode.csproj",
+        "projectUniqueName": "C:\\WebApi\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "/home/newborn/Documents/LeetCode/LeetCode.csproj",
-        "packagesPath": "/home/newborn/.nuget/packages/",
-        "outputPath": "/home/newborn/Documents/LeetCode/obj/",
+        "projectPath": "C:\\WebApi\\LeetCode\\LeetCode.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\WebApi\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/newborn/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
