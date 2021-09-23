@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
+      "projectUniqueName": "c:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
+      "projectPath": "c:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\obj\\",
+      "outputPath": "c:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
