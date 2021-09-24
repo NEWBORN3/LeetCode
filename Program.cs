@@ -6,15 +6,15 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int theNumber = 5768;
-            Console.WriteLine(theNumber%10);
-            int a = theNumber%10;
-            int n = theNumber/10;
-            while(n != 0)  
+            int[] theArray = new int[] {3,5,-4,8,11,1,-1,6};
+            int theTrget = 10;
+
+            int[] newArray = TwoSums.twoSumSorted(theArray,theTrget);
+
+            foreach (var item in newArray)
             {
-                Console.WriteLine(a);
-                a = n % 10;
-                n = n /10;
+                
+                Console.WriteLine(item);
             }
         }
     }
