@@ -46,3 +46,19 @@ C:\Users\hp\Documents\WorkSpace\LeetCode\obj\Debug\net5.0\LeetCode.dll
 C:\Users\hp\Documents\WorkSpace\LeetCode\obj\Debug\net5.0\ref\LeetCode.dll
 C:\Users\hp\Documents\WorkSpace\LeetCode\obj\Debug\net5.0\LeetCode.pdb
 C:\Users\hp\Documents\WorkSpace\LeetCode\obj\Debug\net5.0\LeetCode.genruntimeconfig.cache
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.exe
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.deps.json
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.json
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.runtimeconfig.dev.json
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.dll
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\ref\LeetCode.dll
+E:\Wonder\New folder\LeetCode\bin\Debug\net5.0\LeetCode.pdb
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.csprojAssemblyReference.cache
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfoInputs.cache
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.AssemblyInfo.cs
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.csproj.CoreCompileInputs.cache
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.dll
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\ref\LeetCode.dll
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.pdb
+E:\Wonder\New folder\LeetCode\obj\Debug\net5.0\LeetCode.genruntimeconfig.cache
