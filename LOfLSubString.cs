@@ -26,6 +26,7 @@ namespace LeetCode
                 max = Math.Max(max, i - j + 1);
                 i++;
             }
+            return max;
         }
     }
 }

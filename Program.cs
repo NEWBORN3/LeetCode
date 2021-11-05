@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-           string theWord = "abcabcbb";
+           string theWord = "clementisacap";
            int res = LOfLSubString.LengthOfLongestSubStirng(theWord);
            Console.WriteLine(res);
         }

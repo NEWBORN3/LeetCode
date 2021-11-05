@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Wonder\\New folder\\LeetCode\\LeetCode.csproj": {}
+    "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "E:\\Wonder\\New folder\\LeetCode\\LeetCode.csproj": {
+    "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Wonder\\New folder\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "E:\\Wonder\\New folder\\LeetCode\\LeetCode.csproj",
-        "packagesPath": "C:\\Users\\Done.DESKTOP-27QLRLP\\.nuget\\packages\\",
-        "outputPath": "E:\\Wonder\\New folder\\LeetCode\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\LeetCode.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\WorkSpace\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Done.DESKTOP-27QLRLP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
