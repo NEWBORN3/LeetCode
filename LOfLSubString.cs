@@ -8,19 +8,24 @@ namespace LeetCode
         //window sliding technique
         public static int LengthOfLongestSubStirng(string theWord) 
         {
+            if (String.IsNullOrEmpty(theWord))
+                return 0;
+            int i = 0;
+            int j = 0;
             int max = 0;
-            var lastSeen = new Dictionary<char,int>();
-            for (int j = 0, i = 0; j < theWord.Length; j++)
+            HashSet<int> uniqChar = new HashSet<int>();
+            
+            while (i < theWord.Length)
             {
-                if (lastSeen.ContainsKey(theWord[j]))
+                while (uniqChar.Contains(theWord[i]))
                 {
-                    i = Math.Max(lastSeen[theWord[j]],i);
+                    uniqChar.Remove(theWord[j]);
+                    j++;
                 }
-                max = Math.Max(max, j - i + 1);
-                lastSeen[theWord[j]] = j + 1;
+                uniqChar.Add(theWord[i]);
+                max = Math.Max(max, i - j + 1);
+                i++;
             }
-
-            return max;
         }
     }
 }
