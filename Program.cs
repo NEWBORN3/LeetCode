@@ -6,11 +6,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-           string theWord = "clementisacap";
-           int[] fArray = {1,3};
-           int[] sArray = {2};
-           double res = MedianOfTwoSortedArrays.median(fArray,sArray);
-           Console.WriteLine(String.Join(',', res));
+           string theWord = "A man, a plan, a canal: panama";
+           Console.WriteLine(PhraseIsPalindrome.isPPalindrom(theWord));  
         }
     }
 }
